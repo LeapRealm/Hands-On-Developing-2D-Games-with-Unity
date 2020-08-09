@@ -1,2 +1,16 @@
-# 유니티 2D 게임 개발 직접 
- 
+## '유니티 2D 게임 개발' 직접 해보기
+
+> [유니티 2D 게임 개발](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237699268)에 수록되어 있는 게임을 `유니티`와 `C#`을 사용해서 직접 만들어본 결과물을 올리는 공간입니다.
+
+> 이 책을 통해 `유니티`와 `C#`에 익숙해지고 나만의 게임을 만드는데 한걸음 더 나아가는 것이 목표입니다.
+
+## 요구사항
+* `Unity` (>= 2019.4.1f1)
+* `JetBrains Rider` 추천
+
+## 실행방법
+* [**여기**](https://github.com/LeapRealm/Hands-On-Developing-2D-Games-with-Unity/archive/master.zip)에서 압축파일을 다운로드해서 압축을 풀거나 깃 사용법을 안다면 저장소를 클론합니다.
+* 유니티 허브의 프로젝트 탭에서 각 프로젝트를 추가한 후에 프로젝트를 유니티에서 실행합니다.
+
+## 게임목록
+- [X] Top-Down View 2D RPG
